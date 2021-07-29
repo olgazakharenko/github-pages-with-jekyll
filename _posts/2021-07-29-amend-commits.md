@@ -1,3 +1,8 @@
+---
+title: "Amend multiple commits"
+date: 2021-07-29
+---
+
 You commited and noticed a typo and now needs to do another commit! 
 How to:
 
