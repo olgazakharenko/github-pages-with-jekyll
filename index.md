@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "GitHub, seriously?"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Have you ever found yourself on Stackoverflow on the page "How to... GitHub". Then you're on the right page. Hope my few hints will help you
